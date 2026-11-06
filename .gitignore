@@ -1,0 +1,3 @@
+# dependencies that should not be tracked by git 
+.venv/
+.vscode/
